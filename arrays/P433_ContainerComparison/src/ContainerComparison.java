@@ -1,7 +1,7 @@
 import java.util.*;
 //: arrays/ContainerComparison.java
 
-class BerylliumSphere{
+    class BerylliumSphere{
 	private static long counter;
 	private final long id = counter++;
 	public String toString() {
